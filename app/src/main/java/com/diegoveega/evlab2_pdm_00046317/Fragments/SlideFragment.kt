@@ -64,11 +64,11 @@ class SlideFragment() : Fragment() {
         imagenSlide = imagen
 
         if(param1 == "1"){
-            imagenSlide.setImageResource(R.drawable.abc_ab_share_pack_mtrl_alpha)
+            imagenSlide.setImageResource(R.drawable.abc_ic_ab_back_material)
         }else if (param1 == "2"){
             imagenSlide.setImageResource(R.drawable.abc_btn_check_material)
         }else if (param1 == "3"){
-            imagenSlide.setImageResource(R.drawable.abc_btn_radio_material)
+            imagenSlide.setImageResource(R.drawable.abc_ic_commit_search_api_mtrl_alpha)
         }
     }
 

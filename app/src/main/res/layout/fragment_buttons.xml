@@ -11,13 +11,13 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Anterior"/>
+        android:text="@string/btn_prev_text"/>
 
     <Button
         android:id="@+id/btn_siguiente"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="Siguiente"/>
+        android:text="@string/btn_next_text"/>
 
 </LinearLayout>
